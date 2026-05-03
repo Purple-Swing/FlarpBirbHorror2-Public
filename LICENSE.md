@@ -1,0 +1,1 @@
+Copyright © 2026 Purple Swing. All rights reserved. Redistribution and commercial use are prohibited without express written permission. Modification is permitted with credit to owners (Purple Swing).
