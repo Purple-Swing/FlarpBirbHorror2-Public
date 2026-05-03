@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a538a26a27b954fb9ea5e6174b8c28, type: 3}
+  m_Name: FBH_C1
+  m_EditorClassIdentifier: 
+  string_ChapterTitle: Facility
+  string_Scene: ChapterOne
+  CampaignSO_Related: {fileID: 11400000, guid: 99178c961282d86479da966285a205c9, type: 2}
+  int_ChapterNumber: 1
+  string_CollectableName: Poptart
+  string_CollectionTotalSound: player_chew_award
+  int_CollectableAmount: 7
+  Sprite_CollectableSprite: {fileID: 21300000, guid: fe406efe88ba8ea429ea534234828d4c, type: 3}
+  Sprite_CollectableSpriteUI: {fileID: 21300000, guid: 3f6314db32dd39f4fb32bb9eb2f88041, type: 3}
+  Sprite_ChapterPreview: {fileID: 21300000, guid: bb05202ed48f39e45b1e56d795dde078, type: 3}

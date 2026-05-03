@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c59c17a4951eb54469e8278df76df3f1, type: 3}
+  m_Name: FBH_FlarpyWarpy
+  m_EditorClassIdentifier: 
+  float_Damage: 1
+  float_ViewDistance: 18
+  float_FOV: 80
+  float_MovementSpeed: 4
+  AudioClip_AmbientSound: {fileID: 8300000, guid: 406a96b4e4c02674cafaa7d3310cd7ee, type: 3}
+  bool_CanBreakDoors: 0
+  float_SphereScale: 8

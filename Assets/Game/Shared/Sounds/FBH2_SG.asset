@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c2b17ff247385d4fbf7f2d46481e71e, type: 3}
+  m_Name: FBH2_SG
+  m_EditorClassIdentifier: Assembly-CSharp:reign:SoundGroup
+  List_Sounds:
+  - string_Name: meatroom
+    AudioClip_Clip: {fileID: 8300000, guid: 2112b0a516e421f469a86bc1d4a4f295, type: 3}
+  - string_Name: select
+    AudioClip_Clip: {fileID: 8300000, guid: 7cc19c79fe2a1454a9e158d88372d8ac, type: 3}
+  - string_Name: move
+    AudioClip_Clip: {fileID: 8300000, guid: bc793ab3de7cf914cb05da54814a5823, type: 3}
+  - string_Name: locked
+    AudioClip_Clip: {fileID: 8300000, guid: 7540555895e9a7743a3177ba2f942c6f, type: 3}
+  - string_Name: impact
+    AudioClip_Clip: {fileID: 8300000, guid: f66328c97528bf644944c33282674212, type: 3}
+  - string_Name: switch_toggle
+    AudioClip_Clip: {fileID: 8300000, guid: 9f6984df5d82bb94985401c03801b0a9, type: 3}
+  - string_Name: player_chew
+    AudioClip_Clip: {fileID: 8300000, guid: 08485cca3345e27439efac88544dbd58, type: 3}
+  - string_Name: player_chew_award
+    AudioClip_Clip: {fileID: 8300000, guid: a45e4e6ab628e674ea71beee308e8ce8, type: 3}
+  - string_Name: player_jump
+    AudioClip_Clip: {fileID: 8300000, guid: 9d002b2fcf80daa4d989d0479dc5ad30, type: 3}
+  - string_Name: player_land
+    AudioClip_Clip: {fileID: 8300000, guid: ffa76200efb1be247801f5b60e1b47f1, type: 3}
+  - string_Name: open_door
+    AudioClip_Clip: {fileID: 8300000, guid: c211eb18c13ac674e93fbdc11029928f, type: 3}
+  - string_Name: close_door
+    AudioClip_Clip: {fileID: 8300000, guid: 71f48bdad35b5a74b80d8c5decd0e3e5, type: 3}
+  - string_Name: lock_door
+    AudioClip_Clip: {fileID: 8300000, guid: d18f1410b499568458619d7b7182b2bf, type: 3}
+  - string_Name: unlock_door
+    AudioClip_Clip: {fileID: 8300000, guid: 092ebb5330c430c4492f74309c50ab6a, type: 3}
+  - string_Name: jammed_door
+    AudioClip_Clip: {fileID: 8300000, guid: bcdc1e04b5cdc0346999376e6cad821c, type: 3}
+  - string_Name: player_footstep_1
+    AudioClip_Clip: {fileID: 8300000, guid: f3b6a3c44621d8a4586b56614c207cac, type: 3}
+  - string_Name: player_footstep_2
+    AudioClip_Clip: {fileID: 8300000, guid: 775bf5d88db966446ab5a3b522022125, type: 3}
+  - string_Name: player_footstep_3
+    AudioClip_Clip: {fileID: 8300000, guid: 84566fcbd1a635d40b90486b4b0e7bf3, type: 3}
+  - string_Name: player_footstep_4
+    AudioClip_Clip: {fileID: 8300000, guid: 2337a5c6cd528d640a3727dc74af80b2, type: 3}
+  - string_Name: open_gate
+    AudioClip_Clip: {fileID: 8300000, guid: e39f60a82f1bfd64eac2d781e1bccdac, type: 3}
+  - string_Name: player_death
+    AudioClip_Clip: {fileID: 8300000, guid: 33f5bb2f7a459b24bb510bd8508ce9a2, type: 3}
